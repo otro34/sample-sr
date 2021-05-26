@@ -1,4 +1,4 @@
-# sample
+# sample-sr
 
 > Testing semantic release
 
